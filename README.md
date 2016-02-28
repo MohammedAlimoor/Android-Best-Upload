@@ -1,7 +1,7 @@
 # Android-Best-Uploud   Volley
 Easy library  use  for  upload file from  android app to server  
 * Based On Volley 
-* implement method   onProgress , onResponse , onError
+* implement useful  method :-  onProgress , onResponse , onError
 
 ## How To Use
         VolleyUploadManager volleyManager=new VolleyUploadManager(this);
