@@ -1,6 +1,7 @@
-# Android-Best-Upload   Volley   http://ameralfedf.github.io/Android-Best-Upload
+# Android-Best-Upload   Volley  
+##[Website](http://ameralfedf.github.io/Android-Best-Upload/)
 Easy library  use  for  upload file from  android app to server  
-* Based On Volley [Website](http://ameralfedf.github.io/Android-Best-Upload/)
+* Based On Volley 
 * implement useful  method :-  onProgress , onResponse , onError
 
 ## How To Use
